@@ -109,5 +109,3 @@ This test plan defines the overall approach to validate the login functionality 
 
 ---
 
-
-
